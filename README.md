@@ -83,7 +83,7 @@ Configure dataset paths in `data_config.json`:
 
 1. **Multi-scale Temporal Feature Extraction**: Processes time series data with different scales
 2. **Graph Convolutional Attention Layer (GCA)**: Combines graph structure and attention mechanism
-3. **Feature Fusion Module**: Fuses temporal, static, and topological features
+3. **Feature Fusion Module**: Fuses temporal, expression-profile, and topological features
 4. **Adaptive Loss Function**: Optimized for imbalanced data
 
 ### Network Structure
