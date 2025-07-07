@@ -58,16 +58,6 @@ pip install -r requirements.txt
 pip install torch-geometric
 ```
 
-## Data Preparation
-
-### Data Format
-
-The project supports DREAM4-format datasets, including:
-- Time series data (`.tsv` format)
-- Gold standard data (gene regulatory relationships)
-- Wildtype data
-- Multifactorial data
-
 ### Data Configuration
 
 Configure dataset paths in `data_config.json`:
